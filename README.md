@@ -9,6 +9,6 @@ Just add everything to the path. Then run `mnist.m`, `quickdraw.m` or `usps.m`. 
 
 *Due to its size, the `quickdraw.mat` data-file is currently not uploaded. Before we finish to update it, please send us an email if you want to get your hands on it.*
 
-**Packages needed**
+**Packages required**
 * [LS-SVMlab](https://www.esat.kuleuven.be/sista/lssvmlab/);
 * [Sinkhorn Scaling for Optimal Transport](http://marcocuturi.net/SI.html).
